@@ -1,24 +1,24 @@
 Ntense Obono
 
-Level 1
+Level 0 -> 1
 Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 steps
 1. ls to see files in the current working directory
 2. cat ~/readme 
 
-Level 2
+Level 1 -> 2
 PW: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 Steps:
 1. Same as Level one
 2. cat ~/-
 
-Level 3
+Level 2 -> 3
 PW:  MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 Steps:
 sames as Level one
 cat ~/spaces\ in\ this\ filename
 
-Level 4
+Level 3 -> 4
 PW: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 Steps:
 1. ls
@@ -64,4 +64,14 @@ PW: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 Steps:
 strings data.txt | grep '='
 
+Level 10 -> 11
+PW: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+Steps
+1. cat data.txt
+2. echo VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg== | base64 --decode
+
+Level 11 -> 12
+PW
+Steps
+1. 
 
