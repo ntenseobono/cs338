@@ -1,1 +1,67 @@
 Ntense Obono
+
+Level 1
+Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+steps
+1. ls to see files in the current working directory
+2. cat ~/readme 
+
+Level 2
+PW: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Steps:
+1. Same as Level one
+2. cat ~/-
+
+Level 3
+PW:  MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+Steps:
+sames as Level one
+cat ~/spaces\ in\ this\ filename
+
+Level 4
+PW: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+Steps:
+1. ls
+2. cd inhere
+3. ls -a
+4. cat ...Hiding-From-You
+
+Level 4 -> 5
+PW: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+Steps:
+1. ls
+2. cd inhere
+3. ls -a
+4. cat -- -file07
+
+Level 5 -> 6
+PW: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+Steps
+1. ls
+2. cd inhere
+3. find . -type f -size 1033c ! -executable -exec file {} + | grep "ASCII text"
+4. cat ./maybehere07/.file2
+
+Level 6 -> 7
+PW: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+Steps
+1. find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+2. cat /var/lib/dpkg/info/bandit7.password
+
+Level 7 -> 8
+PW: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Steps
+1. ls -a
+2. grep "millionth" data.txt
+
+Level 8 -> 9
+PW: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+Steps
+1. sort data.txt | uniq -u
+
+Level 9 -> 10
+PW: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+Steps:
+strings data.txt | grep '='
+
+
