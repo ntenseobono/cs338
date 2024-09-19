@@ -71,7 +71,10 @@ Steps
 2. echo VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg== | base64 --decode
 
 Level 11 -> 12
-PW
+PW: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 Steps
-1. 
+1. ls -a
+1. cat data.txt
+2. tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt
+
 
