@@ -1,7 +1,7 @@
 # ILOVEYOU VIRUS
 
 **Partners**: Ntense Obono, Jeremiah Dawson
-**Presentation Format**: **[Video]**(https://drive.google.com/file/d/1Xf7mdzJZLfanMJofpP4COjMnNpzfBvkb/view?usp=sharing) (7 minutes)
+**Presentation Format**: **[Video](https://drive.google.com/file/d/1Xf7mdzJZLfanMJofpP4COjMnNpzfBvkb/view?usp=sharing)** (7 minutes)
 
 ## Proposal
 We will discuss the global damage caused by the **ILOVEYOU virus**.
@@ -18,4 +18,4 @@ We will discuss the global damage caused by the **ILOVEYOU virus**.
 ## Goal
 To provide an in-depth explanation of the questions listed, along with informative documentation on the virus and the ethics surrounding the topic.
 
-**[Link to project video]**(https://drive.google.com/file/d/1Xf7mdzJZLfanMJofpP4COjMnNpzfBvkb/view?usp=sharing)
+[**Link to project video**](https://drive.google.com/file/d/1Xf7mdzJZLfanMJofpP4COjMnNpzfBvkb/view?usp=sharing)
